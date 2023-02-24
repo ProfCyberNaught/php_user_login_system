@@ -255,7 +255,7 @@ A list of resources that may interest you:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [contributors-url]: https://github.com/ProfCyberNaught/php-login-system/graphs/contributors
-[contributions]: https://img.shields.io/badge/Contributions%20Welcome-green?style=for-the-badge&logo=Open%20Access&logoColor=white
+[contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [contributions-url]: https://github.com/ProfCyberNaught/php-login-system/
 [forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [forks-url]: https://github.com/ProfCyberNaught/php-login-system/network/members
