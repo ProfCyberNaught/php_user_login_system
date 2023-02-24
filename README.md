@@ -101,8 +101,6 @@ Of course, no one user login system will serve all projects since your needs may
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![PHP][PHP]][PHP-url]
 * [![SQL][SQL]][SQL-url]
 * [![HTML][HTML]][HTML-url]
@@ -115,34 +113,30 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+If you want to have this User Login System running locally, you can follow the instructions below to get a local copy up and running.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This is a list of the things you will need to use the User Login System.
+Apache - PHP - MySQL - PHPMyAdmin - Sodium Library - Repo Main.zip - Text Editor - Web Browser
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_If you want to have this project running on your local environment, follow these instructions._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download the repo from: https://github.com/ProfCyberNaught/php-login-system/archive/refs/heads/main.zip
+2. Download & install XAMPP or LAMP (depending on your operating system and personal choice)
+3. Make sure you have libsodium packages enabled (libsodium.dll) (may need to download or copy across to different directories to work)
+4. Extract the compressed zip file to the drive location of your localhost (sometimes 'www' or 'htdocs')
+5. Create a database with a username and password (use PHPMyAdmin for this)
+6. Import the database file (pcn_database.sql) using PHPMyAdmin (stored in /pcn_config/pcn_database/ directory)
+7. Add your new database credentials to the pcn_db_config.php file (stored in /pcn_config/ directory)
+8. Direct your browser to /localhost/your-directory (replace with your chosen directory name)
+9. Login with the default credentials (u: procn  p: procnpw)
+10. Change the default login credentials
+
+If you are using XAMPP, use the following link to enable the Sodium Library: [Sodium Library - XAMPP](https://stackoverflow.com/questions/48287186/sodium-is-not-loading-on-xampp-php-7-2)
+However, if you are using another environment, please check the online forums or software installation guides for your chosen application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +145,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+I will use this space to show useful examples of how the project can be used. Additional screenshots, code examples and demos may work well in this space. Could also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://github.com/ProfCyberNaught/php-login-system/)_
 
@@ -162,11 +156,10 @@ _For more examples, please refer to the [Documentation](https://github.com/ProfC
 <!-- ROADMAP -->
 ## Roadmap
 
-This roadmap should only reflect the larger concepts and features. However, initially it might reflect the smaller tasks.
+This roadmap should only reflect the larger concepts and features (initially it might reflect the smaller tasks).
 
 - [ ] Add Changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
 - [x] Add "readme" document to introduce the project
 - [ ] Add "readme" content
     - [x] Roadmap
@@ -178,6 +171,7 @@ This roadmap should only reflect the larger concepts and features. However, init
     - [ ] Contributing Instructions
     - [x] Add Mastodon Link
     - [x] Add Website Link
+    - [x] Add Encrypted Email Link (+ public key)
 
 See the [open issues](https://github.com/ProfCyberNaught/php-login-system/issues) for a full list of proposed features (and known issues).
 
@@ -191,13 +185,15 @@ See the [open issues](https://github.com/ProfCyberNaught/php-login-system/issues
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+You can also join the discussions board. Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+**Security Advisories:** This repo supports private security advisories to either discuss, fix, or publish information about security vulnerabilities.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +228,7 @@ Website Link: [https://profcybernaught.hashnode.dev/](https://profcybernaught.ha
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+A list of resources that may interest you:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Caiyongji Emoji List](https://github.com/caiyongji/emoji-list)
