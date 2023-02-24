@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/ProfCyberNaught/php-login-system/)
+[![User Login System Screen Shot][product-screenshot]](https://github.com/ProfCyberNaught/php-login-system/)
 
 There are many tutorials online attempting to teach people how to code a user Login System. However, many of them are either out-of-date in terms of language, or no longer follow best security practices (or never did in the first place). This project is dedicated to creating a user login system that not only would be up to date regarding languages, but also include best security practices involving but not limited to: password hashing, cross-site scripting protections (XSS), SQL Injection protections, data storage (encryption by default).
 
@@ -244,7 +244,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/ProfCyberNaught/php-login-system/issues
 [license-shield]: https://img.shields.io/github/license/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [license-url]: https://github.com/ProfCyberNaught/php-login-system/blob/main/LICENSE
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/procn-user-login-system-screenshot.png
 [PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
 [PHP-url]: https://www.php.net/
 [HTML]: https://img.shields.io/badge/html-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26
