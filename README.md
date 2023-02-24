@@ -40,7 +40,7 @@
   <p align="center">
     A user login system providing encrypted data storage!
     <br />
-    <a href="hhttps://github.com/ProfCyberNaught/php-login-system/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ProfCyberNaught/php-login-system/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ProfCyberNaught/php-login-system/">View Demo</a>
