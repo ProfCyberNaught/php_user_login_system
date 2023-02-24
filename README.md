@@ -25,6 +25,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
+[![Contributions][contributions]][contributions-url]
 
 
 <!-- PROJECT LOGO -->
@@ -46,8 +47,7 @@
     ·
     <a href="https://github.com/ProfCyberNaught/php-login-system/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ProfCyberNaught/php-login-system/issues">Request Feature</a><br />
-    [![Contributions][contributions]][contributions-url]
+    <a href="https://github.com/ProfCyberNaught/php-login-system/issues">Request Feature</a>
   </p>
 </div>
 
