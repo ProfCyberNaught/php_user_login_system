@@ -35,12 +35,12 @@
     <img src="images/procn-user-login-system-logo.png" alt="User Login System Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">User Login System Project - Prof Cyber Naught</h3>
+  <h3 align="center">User Login System Project - @ProfCyberNaught</h3>
 
   <p align="center">
     A user login system providing encrypted data storage!
     <br />
-    <a href="https://github.com/ProfCyberNaught/php-login-system/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ProfCyberNaught/php-login-system/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ProfCyberNaught/php-login-system/">View Demo</a>
