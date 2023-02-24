@@ -243,7 +243,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [issues-url]: https://github.com/ProfCyberNaught/php-login-system/issues
 [license-shield]: https://img.shields.io/github/license/ProfCyberNaught/php-login-system.svg?style=for-the-badge
-[license-url]: https://github.com/ProfCyberNaught/php-login-system/blob/master/LICENSE.txt
+[license-url]: https://github.com/ProfCyberNaught/php-login-system/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
 [PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
 [PHP-url]: https://www.php.net/
