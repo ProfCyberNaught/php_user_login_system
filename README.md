@@ -118,7 +118,15 @@ If you want to have this User Login System running locally, you can follow the i
 ### Prerequisites
 
 This is a list of the things you will need to use the User Login System.
-Apache - PHP - MySQL - PHPMyAdmin - Sodium Library - Repo Main.zip - Text Editor - Web Browser
+
+* Apache
+* PHP 8
+* MySQL or MariaDB
+* PHPMyAdmin
+* Sodium Library
+* Repo Main.zip
+* Text Editor
+* Web Browser
 
 ### Installation
 
