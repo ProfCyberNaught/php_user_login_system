@@ -106,7 +106,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![PHP][PHP]][PHP-url]
 * [![SQL][SQL]][SQL-url]
 * [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][VSS-url]
+* [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
