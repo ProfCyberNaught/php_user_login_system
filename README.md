@@ -162,13 +162,22 @@ _For more examples, please refer to the [Documentation](https://github.com/ProfC
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
+This roadmap should only reflect the larger concepts and features. However, initially it might reflect the smaller tasks.
+
+- [ ] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Add "readme" document to introduce the project
+- [ ] Add "readme" content
+    - [x] Roadmap
+    - [ ] Installation Instructions
+    - [ ] Prerequisites
+    - [ ] Update Screenshot Image (when available)
+    - [ ] Update Logo Image (when available)
+    - [ ] Fix License Issue (Not Specified)
+    - [ ] Contributing Instructions
+    - [x] Add Mastodon Link
+    - [x] Add Website Link
 
 See the [open issues](https://github.com/ProfCyberNaught/php-login-system/issues) for a full list of proposed features (and known issues).
 
@@ -206,9 +215,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Prof Cyber Naught - [@profcybernaught](https://infosec.exchange/@ProfCyberNaught) - profcybernaught@proton.me
+Mastodon - [@profcybernaught](https://infosec.exchange/@ProfCyberNaught) - profcybernaught [ at ] proton [ . ] me
 
 Project Link: [https://github.com/users/ProfCyberNaught/projects/1](https://github.com/users/ProfCyberNaught/projects/1)
+
+Website Link: [https://profcybernaught.hashnode.dev/](https://profcybernaught.hashnode.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
