@@ -215,7 +215,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Mastodon - [@profcybernaught](https://infosec.exchange/@ProfCyberNaught) - profcybernaught [ at ] proton [ . ] me
+Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
+
+Encrypted Email: [profcybernaught - Proton - me](#)
+
+Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/php-login-system/blob/main/Public%20Encryption%20Key%20-%20Email/publickey.profcybernaught%40proton.me-17967b5f67efc9e9c294ef224e47d1ba21f7a275.asc)
 
 Project Link: [https://github.com/users/ProfCyberNaught/projects/1](https://github.com/users/ProfCyberNaught/projects/1)
 
