@@ -143,7 +143,7 @@ _If you want to have this project running on your local environment, follow thes
 9. Login with the default credentials (u: procn  p: procnpw)
 10. Change the default login credentials
 
-If you are using XAMPP, use the following link to enable the Sodium Library: [Sodium Library - XAMPP](https://stackoverflow.com/questions/48287186/sodium-is-not-loading-on-xampp-php-7-2)
+If you are using XAMPP, use the following link to enable the Sodium Library: [Sodium Library - XAMPP](https://stackoverflow.com/questions/48287186/sodium-is-not-loading-on-xampp-php-7-2)<br />
 However, if you are using another environment, please check the online forums or software installation guides for your chosen application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
