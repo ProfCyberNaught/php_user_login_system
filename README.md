@@ -25,6 +25,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
+[![Contributions][contributions]][contributions-url]
 
 
 
@@ -255,6 +256,8 @@ A list of resources that may interest you:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [contributors-url]: https://github.com/ProfCyberNaught/php-login-system/graphs/contributors
+[contributions]: https://img.shields.io/badge/Contributions%20Welcome-000000?style=for-the-badge&logo=Open%20Access&logoColor=005EB8
+[contributions-url]: https://github.com/ProfCyberNaught/php-login-system/
 [forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [forks-url]: https://github.com/ProfCyberNaught/php-login-system/network/members
 [stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/php-login-system.svg?style=for-the-badge
