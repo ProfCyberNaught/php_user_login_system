@@ -163,7 +163,7 @@ However, if you are using another environment, please check the online forums or
 <!-- DIRECTORY STRUCTURE -->
 ## Directory Structure
 
-The following is an example directory structure used for the project. This should give indications of directory and file naming. We should only be using PHP extentions for pages because this will allow us to update areas of the project with more ease (compared to static HTML pages).
+The following is an example directory structure used for the project. This should give indications of directory and file naming. We should only be using PHP file types for pages (not HTML) because this will allow us to update areas of the project with more ease (compared to static HTML pages), using global include files.
 
 ```
 \-- php-user-login-system
