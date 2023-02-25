@@ -36,10 +36,10 @@
     <img src="pcn_images/pcn_user_login_system_logo.png" alt="User Login System Logo - ProfCyberNaught" width="80" height="80">
   </a>
 
-  <h3 align="center">User Login System Project - @ProfCyberNaught</h3>
+  <h3 align="center">PHP User Login System Project - @ProfCyberNaught</h3>
 
   <p align="center">
-    A user login system providing encrypted data storage!
+    A PHP user login system providing encrypted data storage!
     <br />
     <a href="https://github.com/ProfCyberNaught/php-login-system/blob/main/pcn_docs"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,18 +85,18 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The PHP User Login System Project
 
 [![User Login System Screen Shot][product-screenshot]](https://github.com/ProfCyberNaught/php-login-system/)
 
-There are many tutorials online attempting to teach people how to code a user Login System. However, many of them are either out-of-date in terms of language, or no longer follow best security practices (or never did in the first place). This project is dedicated to creating a user login system that not only would be up to date regarding languages, but also include best security practices involving but not limited to: password hashing, cross-site scripting protections (XSS), SQL Injection protections, data storage (encryption by default).
+There are many tutorials online attempting to teach people how to code a PHP User Login System. However, many of them are either out-of-date in terms of language, or no longer follow best security practices (or never did in the first place). This project is dedicated to creating a PHP User Login System that not only would be up to date regarding languages, but also include best security practices involving but not limited to: password hashing, cross-site scripting protections (XSS), SQL Injection protections, data storage (encryption by default).
 
 Here's why:
 * Your time should be focused on coding with the latest language version :muscle:
-* You shouldn't be learning to develop systems without using best security practices :thumbsdown:
+* You shouldn't be learning to develop systems without using best security practices (these change over time) :thumbsdown:
 * You should be implementing encryption-as-standard methodology (providing better storage security and privacy if the database is compromised) :thumbsup:
 
-Of course, no one user login system will serve all projects since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this project!
+Of course, no _one_ PHP User Login System will serve all projects since your needs may be different. So I'll be adding more features as the project develops. You may also suggest changes by creating an issue (if one does not already exist), forking this repo and creating a pull request. Thanks to all the people who have contributed to expanding this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ Of course, no one user login system will serve all projects since your needs may
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you want to have this User Login System running locally, you can follow the instructions below to get a local copy up and running.
+If you want to have this PHP User Login System running locally, you can follow the instructions below to get a local copy up and running.
 
 ### Prerequisites
 
@@ -133,7 +133,7 @@ This is a list of the things you will need to use the User Login System.
 
 ### Installation
 
-_If you want to have this project running on your local environment, follow these instructions._
+_If you want to have this PHP User Login System project running on your local environment, follow these instructions._
 
 1. Download the repo from: https://github.com/ProfCyberNaught/php-login-system/archive/refs/heads/main.zip
 2. Download & install XAMPP or LAMP (depending on your operating system and personal choice)
@@ -198,11 +198,13 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 You can also join the discussions board. Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
+1. Create an Issue (if one does not already cover your contribution)
+2. Discuss your issue with the project maintainer (use discussion board if required)
+3. Fork the Project (based on maintainer feedback)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request (supply a description of your changes)
 
 **Security Advisories:** This repo supports private security advisories to either discuss, fix, or publish information about security vulnerabilities.
 
