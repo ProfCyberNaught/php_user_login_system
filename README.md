@@ -213,9 +213,9 @@ You can also join the discussions board. Don't forget to give the project a star
 
 Further details can be found via our CONTRIBUTING.md page: https://github.com/ProfCyberNaught/php_user_login_system/blob/main/CONTRIBUTING.md
 
-1. Create an Issue (if one does not already cover your contribution)
+1. Create an Issue (if one does not already cover your contribution) (respect our template structure)
 2. Discuss your issue with the project maintainer (use discussion board if required)
-3. Fork the Project (based on maintainer feedback)
+3. Fork the Project (based on maintainer feedback) (respect our template structure)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
