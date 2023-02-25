@@ -175,7 +175,7 @@ The following is an example directory structure used for the project. This shoul
       |--- README.md
   |-- pcn_downloads
       |--- pcn_php_user_login_system_manual_v1.pdf
-  |--- pcn_functions
+  |-- pcn_functions
       |--- pcn_user_login.php
       |--- pcn_user_registration.php
       |--- pcn_user_activation.php
