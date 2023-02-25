@@ -48,6 +48,8 @@
     <a href="https://github.com/ProfCyberNaught/php-login-system/issues">Report Bug</a>
     ·
     <a href="https://github.com/ProfCyberNaught/php-login-system/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/ProfCyberNaught/php-login-system/discussions">Discussions</a>
   </p>
 </div>
 
