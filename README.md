@@ -27,6 +27,8 @@
 [![License][license-shield]][license-url]
 [![Contributions][contributions]][contributions-url]
 [![Discussions][discussions]][discussions-url]
+[![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]
+
 
 
 <!-- PROJECT LOGO -->
@@ -281,4 +283,5 @@ A list of resources that may interest you:
 [CSS-url]: https://www.w3schools.com/Css/
 [SQL]: https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1
 [SQL-url]: https://www.w3schools.com/sql/
-
+[Contributor-Covenant]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge
+[Contributor-Covenant-url]: code_of_conduct.md
