@@ -26,6 +26,7 @@
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 [![Contributions][contributions]][contributions-url]
+[![Discussions][discussions]][discussions-url]
 
 
 <!-- PROJECT LOGO -->
@@ -259,6 +260,8 @@ A list of resources that may interest you:
 [contributors-url]: https://github.com/ProfCyberNaught/php-login-system/graphs/contributors
 [contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [contributions-url]: https://github.com/ProfCyberNaught/php-login-system/
+[discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/php-login-system.svg?style=for-the-badge
+[discussions-url]: https://github.com/ProfCyberNaught/php-login-system/discussions
 [forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [forks-url]: https://github.com/ProfCyberNaught/php-login-system/network/members
 [stars-shield]: https://img.shields.io/github/stars/ProfCyberNaught/php-login-system.svg?style=for-the-badge
