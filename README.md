@@ -197,8 +197,12 @@ See the [open issues](https://github.com/ProfCyberNaught/php_user_login_system/i
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+We operate a **Code of Conduct** on this project and you can find more details by viewing our documentation: https://github.com/ProfCyberNaught/php_user_login_system/blob/main/code_of_conduct.md
+
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 You can also join the discussions board. Don't forget to give the project a star! Thanks again!
+
+Further details can be found via our CONTRIBUTING.md page: https://github.com/ProfCyberNaught/php_user_login_system/blob/main/CONTRIBUTING.md
 
 1. Create an Issue (if one does not already cover your contribution)
 2. Discuss your issue with the project maintainer (use discussion board if required)
@@ -208,7 +212,9 @@ You can also join the discussions board. Don't forget to give the project a star
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request (supply a description of your changes)
 
-**Security Advisories:** This repo supports private security advisories to either discuss, fix, or publish information about security vulnerabilities.
+_Make sure you have read our main README.md, LICENSE, CONTRIBUTING.md, and code_of_conduct.md documentation._
+
+**Security Advisories:** This repo supports private security advisories to either discuss, fix, or publish information about security vulnerabilities. Details can be found via our SECURITY.md page: https://github.com/ProfCyberNaught/php_user_login_system/security/policy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,7 +223,8 @@ You can also join the discussions board. Don't forget to give the project a star
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL-3.0 License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.<br />
+https://github.com/ProfCyberNaught/php_user_login_system/blob/main/LICENSE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
