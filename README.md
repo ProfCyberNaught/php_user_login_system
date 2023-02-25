@@ -158,7 +158,7 @@ However, if you are using another environment, please check the online forums or
 
 I will use this space to show useful examples of how the project can be used. Additional screenshots, code examples and demos may work well in this space. Could also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://github.com/ProfCyberNaught/php-login-system/pcn_docs)_
+_For more examples, please refer to the [Documentation](https://github.com/ProfCyberNaught/php-login-system/blob/main/pcn_docs)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
