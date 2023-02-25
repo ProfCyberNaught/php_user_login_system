@@ -115,10 +115,7 @@ Of course, no _one_ PHP User Login System will serve all projects since your nee
 
 ### Built With
 
-* [![PHP][PHP]][PHP-url]
-* [![SQL][SQL]][SQL-url]
-* [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][CSS-url]
+[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
