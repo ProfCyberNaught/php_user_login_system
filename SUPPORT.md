@@ -1,6 +1,6 @@
-=====================================
-Support -  PHP User Login System
-=====================================
+====================
+Support Contributors
+====================
 
 As an open source project, PHP User Login System welcomes contributions of many forms. We can offer support to those who might need it.
 
