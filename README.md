@@ -27,7 +27,7 @@
 [![License][license-shield]][license-url]
 [![Contributions][contributions]][contributions-url]
 [![Discussions][discussions]][discussions-url]
-
+https://github.com/ProfCyberNaught/php-login-system/blob/main/pcn_pek_email/
 
 <!-- PROJECT LOGO -->
 <br />
@@ -226,7 +226,7 @@ Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
 
 Encrypted Email: [profcybernaught - Proton - me](#)
 
-Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/php-login-system/blob/main/pcn_pek_email/)
+Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/php-login-system/tree/main/pcn_pek_email)
 
 Project Link: [https://github.com/users/ProfCyberNaught/projects/1](https://github.com/users/ProfCyberNaught/projects/1)
 
