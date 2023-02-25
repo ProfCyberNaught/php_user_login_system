@@ -173,11 +173,15 @@ The following is an example directory structure used for the project. This shoul
       |--- pcn_db_config.php
   |-- pcn_docs
       |--- README.md
+  |-- pcn_downloads
+      |--- pcn_php_user_login_system_manual_v1.pdf
   |--- pcn_functions
       |--- pcn_user_login.php
       |--- pcn_user_registration.php
       |--- pcn_user_activation.php
       |--- pcn_user_type_menu.php
+      |--- pcn_data_encryption.php
+      |--- pcn_global.php
   |-- pcn_styling_css
       |--- pcn_style_sheet.css
   |-- pcn_library
