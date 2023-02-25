@@ -190,7 +190,6 @@ The following is an example directory structure used for the project. This shoul
   |-- pcn_user_signup.php
   |-- pcn_user_verification.php
   |-- README.md
-
 ```
 
 
