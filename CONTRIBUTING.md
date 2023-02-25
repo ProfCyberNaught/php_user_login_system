@@ -13,7 +13,7 @@ Examples of contributions include:
 Further documentations are available in the repository at
 ``pcn_docs/``
 
-**Warning: non-trivial pull requests (anything such as fixing a typo)
+**Warning: trivial pull requests (anything such as fixing a typo)
 will be closed!** `Please file a issue`__ to suggest such changes.
 
 __ https://github.com/ProfCyberNaught/php_user_login_system/issues
