@@ -28,5 +28,5 @@ document your contributions well enough for us to understand the changes.
 Code of Conduct
 ===============
 
-As a contributor, you can help us keep the Django community open and inclusive.
+As a contributor, you can help us keep our community open and inclusive.
 Please read and follow our `Code of Conduct <https://github.com/ProfCyberNaught/php_user_login_system/blob/main/code_of_conduct.md/>`_.
