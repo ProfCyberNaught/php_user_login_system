@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ProfCyberNaught/php-login-system/">
-    <img src="images/procn-user-login-system-logo.png" alt="User Login System Logo" width="80" height="80">
+    <img src="pcn_images/pcn_user_login_system_logo.png" alt="User Login System Logo - ProfCyberNaught" width="80" height="80">
   </a>
 
   <h3 align="center">User Login System Project - @ProfCyberNaught</h3>
@@ -41,7 +41,7 @@
   <p align="center">
     A user login system providing encrypted data storage!
     <br />
-    <a href="https://github.com/ProfCyberNaught/php-login-system/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ProfCyberNaught/php-login-system/pcn_docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ProfCyberNaught/php-login-system/">View Demo</a>
@@ -158,7 +158,7 @@ However, if you are using another environment, please check the online forums or
 
 I will use this space to show useful examples of how the project can be used. Additional screenshots, code examples and demos may work well in this space. Could also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://github.com/ProfCyberNaught/php-login-system/)_
+_For more examples, please refer to the [Documentation](https://github.com/ProfCyberNaught/php-login-system/pcn_docs)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,7 +226,7 @@ Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
 
 Encrypted Email: [profcybernaught - Proton - me](#)
 
-Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/php-login-system/blob/main/Public%20Encryption%20Key%20-%20Email/)
+Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/php-login-system/blob/main/pcn_pek_email/)
 
 Project Link: [https://github.com/users/ProfCyberNaught/projects/1](https://github.com/users/ProfCyberNaught/projects/1)
 
@@ -270,7 +270,7 @@ A list of resources that may interest you:
 [issues-url]: https://github.com/ProfCyberNaught/php-login-system/issues
 [license-shield]: https://img.shields.io/github/license/ProfCyberNaught/php-login-system.svg?style=for-the-badge
 [license-url]: https://github.com/ProfCyberNaught/php-login-system/blob/main/LICENSE
-[product-screenshot]: images/procn-user-login-system-screenshot.png
+[product-screenshot]: pcn_images/pcn_user_login_system_screenshot.png
 [PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
 [PHP-url]: https://www.php.net/
 [HTML]: https://img.shields.io/badge/html-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26
