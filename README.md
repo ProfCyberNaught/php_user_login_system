@@ -160,6 +160,39 @@ However, if you are using another environment, please check the online forums or
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DIRECTORY STRUCTURE -->
+## Directory Structure
+
+The following is an example directory structure used for the project. This should give indications of directory and file naming. We should only be using PHP extentions for pages because this will allow us to update areas of the project with more ease (compared to static HTML pages).
+
+```
+\-- php-user-login-system
+  |-- pcn_config
+      |--- pcn_database
+          |---- pcn_database.sql
+      |--- pcn_db_config.php
+  |-- pcn_docs
+      |--- README.md
+  |--- pcn_functions
+      |--- pcn_user_login.php
+      |--- pcn_user_registration.php
+      |--- pcn_user_activation.php
+      |--- pcn_user_type_menu.php
+  |-- pcn_styling_css
+      |--- pcn_style_sheet.css
+  |-- pcn_library
+      |--- pcn_3rd_party_plugins
+  |-- pcn_user_dashboard.php
+  |-- pcn_main_header.php
+  |-- pcn_main_footer.php
+  |-- index.php
+  |-- pcn_logout.php
+  |-- pcn_user_signup.php
+  |-- pcn_user_verification.php
+  |-- README.md
+
+```
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
