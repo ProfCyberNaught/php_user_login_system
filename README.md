@@ -270,7 +270,7 @@ A list of resources that may interest you:
 [contributors-shield]: https://img.shields.io/github/contributors/ProfCyberNaught/php_user_login_system.svg?style=for-the-badge
 [contributors-url]: https://github.com/ProfCyberNaught/php_user_login_system/graphs/contributors
 [contributions]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
-[contributions-url]: https://github.com/ProfCyberNaught/php_user_login_system/
+[contributions-url]: https://github.com/ProfCyberNaught/php_user_login_system/blob/main/CONTRIBUTING.md
 [discussions]: https://img.shields.io/github/discussions/ProfCyberNaught/php_user_login_system.svg?style=for-the-badge
 [discussions-url]: https://github.com/ProfCyberNaught/php_user_login_system/discussions
 [forks-shield]: https://img.shields.io/github/forks/ProfCyberNaught/php_user_login_system.svg?style=for-the-badge
