@@ -46,13 +46,22 @@
     <a href="https://github.com/ProfCyberNaught/php_user_login_system/blob/main/pcn_docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ProfCyberNaught/php_user_login_system/">View Demo</a>
+    <a href="https://github.com/ProfCyberNaught/php_user_login_system/blob/main/LICENSE">License</a>
     ·
     <a href="https://github.com/ProfCyberNaught/php_user_login_system/issues">Report Bug</a>
     ·
     <a href="https://github.com/ProfCyberNaught/php_user_login_system/issues">Request Feature</a>
     ·
     <a href="https://github.com/ProfCyberNaught/php_user_login_system/discussions">Discussions</a>
+    <br />
+    <br />
+    <a href="https://github.com/ProfCyberNaught/php_user_login_system/blob/main/code_of_conduct.md">Code of Conduct</a>
+    ·
+    <a href="https://github.com/ProfCyberNaught/php_user_login_system/blob/main/CONTRIBUTING.md">Contributions Guidance</a>
+    ·
+    <a href="https://github.com/ProfCyberNaught/php_user_login_system/blob/main/SUPPORT.md">Support Available</a>
+    ·
+    <a href="https://github.com/ProfCyberNaught/php_user_login_system/security/policy">Security Issues</a>
   </p>
 </div>
 
