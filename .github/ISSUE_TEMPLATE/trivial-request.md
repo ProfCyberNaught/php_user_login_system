@@ -2,7 +2,7 @@
 name: Trivial request
 about: Suggest a trivial request for this project
 title: "[TRIVIAL]"
-labels: ''
+labels: Trivial
 assignees: ProfCyberNaught
 
 ---
