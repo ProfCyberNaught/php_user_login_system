@@ -215,11 +215,11 @@ Further details can be found via our CONTRIBUTING.md page: https://github.com/Pr
 
 1. Create an Issue (if one does not already cover your contribution) (respect our template structure)
 2. Discuss your issue with the project maintainer (use discussion board if required)
-3. Fork the Project (based on maintainer feedback) (respect our template structure)
+3. Fork the Project (based on maintainer feedback)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request (supply a description of your changes)
+5. Open a Pull Request (supply a description of your changes) (respect our template structure)
 
 _Make sure you have read our main README.md, LICENSE, CONTRIBUTING.md, and code_of_conduct.md documentation._
 
