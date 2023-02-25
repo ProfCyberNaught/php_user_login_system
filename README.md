@@ -158,7 +158,7 @@ _If you want to have this PHP User Login System project running on your local en
 10. Change the default login credentials
 
 If you are using XAMPP, use the following link to enable the Sodium Library: [Sodium Library - XAMPP](https://stackoverflow.com/questions/48287186/sodium-is-not-loading-on-xampp-php-7-2)<br />
-However, if you are using another environment, please check the online forums or software installation guides for your chosen application.
+However, if you are using another environment, please check the online forums or software installation guides for your chosen application.<br /><br />If you need advice about getting this project running locally (my local environment is Linux based), please do not create an issue, but jump on the Discussions board.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,12 +185,12 @@ This roadmap should only reflect the larger concepts and features (initially it 
 - [x] Add "readme" document to introduce the project
 - [ ] Add "readme" content
     - [x] Roadmap
-    - [ ] Installation Instructions
-    - [ ] Prerequisites
+    - [x] Installation Instructions
+    - [x] Prerequisites
     - [ ] Update Screenshot Image (when available)
     - [ ] Update Logo Image (when available)
-    - [ ] Fix License Issue (Not Specified)
-    - [ ] Contributing Instructions
+    - [x] Fix License Issue (Not Specified)
+    - [x] Contributing Instructions
     - [x] Add Mastodon Link
     - [x] Add Website Link
     - [x] Add Encrypted Email Link (+ public key)
