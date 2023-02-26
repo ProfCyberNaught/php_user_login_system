@@ -12,6 +12,3 @@ This is the policy documents area.
 | [Code of Conduct Policy](../../code_of_conduct.md) | Documents related to our project code of conduct. |
 | [License Policy](../../LICENSE) | Documents related to the usage of this project and all documents contained within. |
 | [Example](#) | Documents related to Example |
-| [Example](#) | Documents related to Example |
-| [Example](#) | Documents related to Example |
-| [Example](#) | Documents related to Example |
