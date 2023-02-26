@@ -2,8 +2,6 @@
 
 This is the policy documents area.
 
-The structure of the repository is as shown below:
-
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
 | [Variables Functions & Classes](pcn_variables_functions_classes.md) | Having a policy to control the naming of variables, functions, and classes will help the development, debugging, and progression of this project. |
