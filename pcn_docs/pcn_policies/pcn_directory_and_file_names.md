@@ -1,4 +1,4 @@
-# Variable, Function, and Class Naming Policy
+# Directory and File Naming Policy
 
 Here is our Directory and File Naming Policy:
 
