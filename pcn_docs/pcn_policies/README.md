@@ -4,8 +4,8 @@ This is the policy documents area.
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Variables Functions & Classes](pcn_variables_functions_classes.md) | Having a policy to control the naming of variables, functions, and classes will help the development, debugging, and progression of this project. |
-| [Example 2](#)                         | Documents related to Example 2                |
+| [Variables Functions & Classes Naming Policy](pcn_variables_functions_classes.md) | Having a policy to control the naming of variables, functions, and classes will help the development, debugging, and progression of this project. |
+| [Directory & File Naming Policy](#) | Document related to the conventions used for correctly naming the directorys and file names within this project. |
 | [Example 3](#)       | Documents related to Example 3            |
 | [Example 4](#)                     | Documents related to Example 4                   |
 | [Example 5](#)                       | Documents related to Example 5            |
