@@ -76,6 +76,8 @@ $my_variable_name = "this is an example of snake_case";
 $url = "example-route";
 ```
 
+#### IMPORTANT NOTICE
+
 Please note that ```$route-name``` is not a valid variable name in PHP as the hyphen character is not allowed in variable names. If you want to use kebab-case in your variable names, you can either replace hyphens with underscores or use camelCase instead. Here are the examples for both:
 
 ```php
