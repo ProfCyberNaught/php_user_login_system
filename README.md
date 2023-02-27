@@ -29,7 +29,7 @@
 [![Discussions][discussions]][discussions-url]
 [![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]<br />
 
-[Designed for: Dark Mode Theme](https://github.com/settings/appearance "Enable Dark Mode")
+Designed for: [Dark Mode Theme](https://github.com/settings/appearance "Enable Dark Mode")
 
 
 
