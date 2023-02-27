@@ -28,7 +28,9 @@
 [![Contributions][contributions]][contributions-url]
 [![Discussions][discussions]][discussions-url]
 [![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]<br />
-<p align="right">[Enable Dark Mode](https://github.com/settings/appearance "Enable Dark Mode")</p>
+
+[Designed for: Dark Mode Theme](https://github.com/settings/appearance "Enable Dark Mode")
+
 
 
 <!-- PROJECT LOGO -->
