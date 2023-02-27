@@ -28,7 +28,7 @@
 [![Contributions][contributions]][contributions-url]
 [![Discussions][discussions]][discussions-url]
 [![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]
-
+<p align="right">(Designed for DarkMode Theme)</p>
 
 
 <!-- PROJECT LOGO -->
