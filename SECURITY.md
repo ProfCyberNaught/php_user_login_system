@@ -22,7 +22,7 @@ This process can take some time, especially when coordination is required with m
 
 ## Security Updates
 
-Security updates will be posted in the security section, release notes, documentations, and potentially the discussions board. If you would credit text within these postings, please let us know within your initial communciations.
+Security updates will be posted in the security section, release notes, documentations, and potentially the discussions board. If you want credit text within these postings, please let us know within your initial communciations.
 
 ## Comments on this Policy
 
