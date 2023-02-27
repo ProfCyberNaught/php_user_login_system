@@ -27,8 +27,8 @@
 [![License][license-shield]][license-url]
 [![Contributions][contributions]][contributions-url]
 [![Discussions][discussions]][discussions-url]
-[![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]
-<p align="right">(Designed for DarkMode Theme)</p>
+[![Contributor Covenant][Contributor-Covenant]][Contributor-Covenant-url]<br />
+<p align="right">[Enable Dark Mode](https://github.com/settings/appearance "Enable Dark Mode")</p>
 
 
 <!-- PROJECT LOGO -->
