@@ -37,7 +37,7 @@ Designed for: [Dark Mode Theme](https://github.com/settings/appearance "Enable D
 <br />
 <div align="center">
   <a href="https://github.com/ProfCyberNaught">
-    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="500" height="500">
+    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="350" height="350">
   </a>
 
   <h3 align="center">PHP User Login System Project - @ProfCyberNaught</h3>
