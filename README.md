@@ -33,11 +33,11 @@ Designed for: [Dark Mode Theme](https://github.com/settings/appearance "Enable D
 
 
 
-<!-- PROJECT LOGO -->
+<!-- Account LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ProfCyberNaught/php_user_login_system/">
-    <img src="pcn_images/pcn_user_login_system_logo.png" alt="User Login System Logo - ProfCyberNaught" width="80" height="80">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="https://user-images.githubusercontent.com/123184999/222930893-22eff243-4570-40af-9709-e35c377c66d6.png" alt="ProfCyberNaught of Cybernaught Industries" width="500" height="500">
   </a>
 
   <h3 align="center">PHP User Login System Project - @ProfCyberNaught</h3>
